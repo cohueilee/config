@@ -19,7 +19,7 @@
       "plat": "ydwx",
       "test": false,
       "cron": "50 3 0,1,2,10,17 * * ?",
-      "data": "https://cohueilee.github.io/config/ydwx.json ",
+      "data": "https://cohueilee.github.io/config/ydwx.json",
       "description": ""
     }
   ]
