@@ -14,11 +14,11 @@
     {
       "owner": "3",
       "name": "一点万象-huige",
-      "version": 3,
+      "version": 4,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "50 3 0,1,2,10,17 * * ?",
+      "cron": "50 3 0,1,10 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx.json",
       "description": ""
     }
