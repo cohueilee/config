@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "owner": "3",
+      "name": "华润通-签到&抽奖",
+      "version": 4,
+      "status": true,
+      "plat": "hrt",
+      "test": false,
+      "cron": "38 31 9 * * ?",
+      "data": "https://xxxxxxxx",
+      "description": ""
+    },
+    {
+      "owner": "3",
+      "name": "一点万象-huige",
+      "version": 3,
+      "status": true,
+      "plat": "ydwx",
+      "test": false,
+      "cron": "50 3 0,1,2,10,17 * * ?",
+      "data": "https://xxxxxxxxx",
+      "description": ""
+    }
+  ]
+}
