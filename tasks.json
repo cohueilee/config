@@ -25,22 +25,22 @@
     {
       "owner": "3",
       "name": "一点万象-huige",
-      "version": 8,
+      "version": 9,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "50 3 0,1,10 * * ?",
+      "cron": "50 3 0,1,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx.json",
       "description": ""
     },
     {
       "owner": "3",
       "name": "一点万象-huige2",
-      "version": 6,
+      "version": 7,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "50 35 0,1,10 * * ?",
+      "cron": "50 35 0,1,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx2.json",
       "description": ""
     }
