@@ -14,11 +14,11 @@
     {
       "owner": "3",
       "name": "华润通-签到&抽奖2",
-      "version": 5,
+      "version": 6,
       "status": true,
       "plat": "hrt",
       "test": false,
-      "cron": "38 15 9 * * ?",
+      "cron": "38 10 9 * * ?",
       "data": "https://cohueilee.github.io/config/hrt2.json",
       "description": ""
     },
@@ -36,11 +36,11 @@
     {
       "owner": "3",
       "name": "一点万象-huige2",
-      "version": 5,
+      "version": 6,
       "status": true,
       "plat": "ydwx",
       "test": false,
-      "cron": "50 15 0,1,10 * * ?",
+      "cron": "50 35 0,1,10 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx2.json",
       "description": ""
     }
