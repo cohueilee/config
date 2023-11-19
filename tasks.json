@@ -27,7 +27,7 @@
     {
       "owner": "3",
       "name": "华润通-签到&抽奖4",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "hrtV2",
       "proxy": true,
@@ -63,7 +63,7 @@
     {
       "owner": "3",
       "name": "一点万象-huige4",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "ydwxV2",
       "proxy": true,
