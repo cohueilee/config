@@ -14,11 +14,11 @@
     {
       "owner": "3",
       "name": "华润通-签到&抽奖2",
-      "version": 2,
+      "version": 3,
       "status": true,
       "plat": "hrtV2",
       "test": false,
-      "cron": "38 45 14 * * ?",
+      "cron": "38 40 14 * * ?",
       "data": "https://cohueilee.github.io/config/hrt2.json",
       "description": ""
     },
