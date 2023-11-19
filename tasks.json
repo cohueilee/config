@@ -3,23 +3,34 @@
     {
       "owner": "3",
       "name": "华润通-签到&抽奖",
-      "version": 2,
+      "version": 3,
       "status": true,
       "plat": "hrtV2",
       "test": false,
-      "cron": "38 35 14 * * ?",
+      "cron": "38 35 8 * * ?",
       "data": "https://cohueilee.github.io/config/hrt.json",
       "description": ""
     },
     {
       "owner": "3",
       "name": "华润通-签到&抽奖2",
-      "version": 3,
+      "version": 4,
       "status": true,
       "plat": "hrtV2",
       "test": false,
-      "cron": "38 40 14 * * ?",
+      "cron": "38 5 9 * * ?",
       "data": "https://cohueilee.github.io/config/hrt2.json",
+      "description": ""
+    },
+    {
+      "owner": "3",
+      "name": "华润通-签到&抽奖4",
+      "version": 1,
+      "status": true,
+      "plat": "hrtV2",
+      "test": false,
+      "cron": "38 1 8 * * ?",
+      "data": "https://cohueilee.github.io/config/hrt4.json",
       "description": ""
     },
     {
@@ -42,6 +53,17 @@
       "test": false,
       "cron": "50 35 0,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx2.json",
+      "description": ""
+    },
+    {
+      "owner": "3",
+      "name": "一点万象-huige4",
+      "version": 1,
+      "status": true,
+      "plat": "ydwxV2",
+      "test": false,
+      "cron": "50 15 1,9,15 * * ?",
+      "data": "https://cohueilee.github.io/config/ydwx4.json",
       "description": ""
     }
   ]
