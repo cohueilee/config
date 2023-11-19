@@ -29,7 +29,7 @@
       "status": true,
       "plat": "ydwxV2",
       "test": false,
-      "cron": "50 25 0,1,12,16 * * ?",
+      "cron": "50 25 0,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx.json",
       "description": ""
     },
@@ -40,7 +40,7 @@
       "status": true,
       "plat": "ydwxV2",
       "test": false,
-      "cron": "50 35 0,1,12,16 * * ?",
+      "cron": "50 35 0,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx2.json",
       "description": ""
     }
