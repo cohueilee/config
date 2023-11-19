@@ -1,0 +1,15 @@
+{
+  "url": "https://mid.huaruntong.cn/api/points/saveQuestionSignin",
+  "url_g3": "https://mid.huaruntong.cn/api/action/g3Turntable/luckDraw",
+  "method": "POST",
+  "headers": {
+    "x-Hrt-Mid-Appid": "API_AUTH_WEB",
+    "X-HRT-MID-NEWRISK": "newRisk",
+    "Content-Type": "application/json;charset=utf-8",
+    "Accept": "application/json"
+  },
+  "myToken": "2eefa1855089ffed31c35c273863cd417,18518417861",
+  "tokens": [
+    "15a386e817c93596d4fbb49838ee586b6,18711669929,姣爸"
+  ]
+}
