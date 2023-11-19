@@ -7,7 +7,7 @@
       "status": true,
       "plat": "hrtV2",
       "test": false,
-      "cron": "38 31 9 * * ?",
+      "cron": "38 33 14 * * ?",
       "data": "https://cohueilee.github.io/config/hrt.json",
       "description": ""
     },
@@ -18,7 +18,7 @@
       "status": true,
       "plat": "hrtV2",
       "test": false,
-      "cron": "38 10 9 * * ?",
+      "cron": "38 41 14 * * ?",
       "data": "https://cohueilee.github.io/config/hrt2.json",
       "description": ""
     },
