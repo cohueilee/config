@@ -3,22 +3,22 @@
     {
       "owner": "3",
       "name": "华润通-签到&抽奖",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "hrtV2",
       "test": false,
-      "cron": "38 33 14 * * ?",
+      "cron": "38 35 14 * * ?",
       "data": "https://cohueilee.github.io/config/hrt.json",
       "description": ""
     },
     {
       "owner": "3",
       "name": "华润通-签到&抽奖2",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "hrtV2",
       "test": false,
-      "cron": "38 41 14 * * ?",
+      "cron": "38 45 14 * * ?",
       "data": "https://cohueilee.github.io/config/hrt2.json",
       "description": ""
     },
