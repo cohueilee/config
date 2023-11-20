@@ -44,7 +44,7 @@
       "plat": "ydwxV2",
       "proxy": true,
       "test": false,
-      "cron": "3 16 0,10,16 * * ?",
+      "cron": "3 17 0,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx.json",
       "description": ""
     },
