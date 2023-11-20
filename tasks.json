@@ -27,7 +27,7 @@
     {
       "owner": "3",
       "name": "华润通-签到&抽奖4",
-      "version": 2,
+      "version": 1,
       "status": true,
       "plat": "hrtV2",
       "proxy": true,
@@ -44,7 +44,7 @@
       "plat": "ydwxV2",
       "proxy": true,
       "test": false,
-      "cron": "50 25 0,10,16 * * ?",
+      "cron": "3 5 0,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx.json",
       "description": ""
     },
@@ -56,7 +56,7 @@
       "plat": "ydwxV2",
       "proxy": true,
       "test": false,
-      "cron": "50 35 0,10,16 * * ?",
+      "cron": "12 15 0,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx2.json",
       "description": ""
     },
@@ -68,7 +68,7 @@
       "plat": "ydwxV2",
       "proxy": true,
       "test": false,
-      "cron": "50 15 1,9,15 * * ?",
+      "cron": "30 25 0,9,15 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx4.json",
       "description": ""
     }
