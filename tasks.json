@@ -44,7 +44,7 @@
       "plat": "ydwxV2",
       "proxy": true,
       "test": false,
-      "cron": "3 17 0,10,16 * * ?",
+      "cron": "3 33 0,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx.json",
       "description": ""
     },
@@ -56,7 +56,7 @@
       "plat": "ydwxV2",
       "proxy": true,
       "test": false,
-      "cron": "12 30 0,10,16 * * ?",
+      "cron": "12 40 0,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx2.json",
       "description": ""
     },
@@ -68,7 +68,7 @@
       "plat": "ydwxV2",
       "proxy": true,
       "test": false,
-      "cron": "30 25 0,9,15 * * ?",
+      "cron": "30 48 0,9,15 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx4.json",
       "description": ""
     }
