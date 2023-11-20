@@ -51,24 +51,24 @@
     {
       "owner": "3",
       "name": "一点万象-huige2",
-      "version": 1,
+      "version": 2,
       "status": true,
       "plat": "ydwxV2",
       "proxy": true,
       "test": false,
-      "cron": "12 40 0,10,16 * * ?",
+      "cron": "12 39 0,10,16 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx2.json",
       "description": ""
     },
     {
       "owner": "3",
       "name": "一点万象-huige4",
-      "version": 2,
+      "version": 3,
       "status": true,
       "plat": "ydwxV2",
       "proxy": true,
       "test": false,
-      "cron": "30 48 0,9,15 * * ?",
+      "cron": "30 42 0,9,15 * * ?",
       "data": "https://cohueilee.github.io/config/ydwx4.json",
       "description": ""
     }
